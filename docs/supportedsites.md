@@ -3,8 +3,6 @@
  - **1up.com**
  - **20min**
  - **220.ro**
- - **22tracks:genre**
- - **22tracks:track**
  - **24video**
  - **3qsdn**: 3Q SDN
  - **3sat**
@@ -36,13 +34,13 @@
  - **AdultSwim**
  - **aenetworks**: A+E Networks: A&E, Lifetime, History.com, FYI Network
  - **afreecatv**: afreecatv.com
- - **afreecatv:global**: afreecatv.com
  - **AirMozilla**
  - **AliExpressLive**
  - **AlJazeera**
  - **Allocine**
  - **AlphaPorno**
  - **AMCNetworks**
+ - **AmericasTestKitchen**
  - **anderetijden**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
  - **AnimeOnDemand**
  - **anitube.se**
@@ -114,22 +112,23 @@
  - **BokeCC**
  - **BostonGlobe**
  - **Bpb**: Bundeszentrale für politische Bildung
- - **BR**: Bayerischer Rundfunk Mediathek
+ - **BR**: Bayerischer Rundfunk
  - **BravoTV**
  - **Break**
  - **brightcove:legacy**
  - **brightcove:new**
+ - **BRMediathek**: Bayerischer Rundfunk Mediathek
  - **bt:article**: Bergens Tidende Articles
  - **bt:vestlendingen**: Bergens Tidende - Vestlendingen
  - **BuzzFeed**
  - **BYUtv**
- - **BYUtvEvent**
  - **Camdemy**
  - **CamdemyFolder**
  - **CamWithHer**
  - **canalc2.tv**
  - **Canalplus**: canalplus.fr, piwiplus.fr and d8.tv
- - **Canvas**: canvas.be and een.be
+ - **Canvas**
+ - **CanvasEen**: canvas.be and een.be
  - **CarambaTV**
  - **CarambaTVPage**
  - **CartoonNetwork**
@@ -198,9 +197,8 @@
  - **dailymotion**
  - **dailymotion:playlist**
  - **dailymotion:user**
- - **DailymotionCloud**
- - **Daisuki**
- - **DaisukiPlaylist**
+ - **DaisukiMotto**
+ - **DaisukiMottoPlaylist**
  - **daum.net**
  - **daum.net:clip**
  - **daum.net:playlist**
@@ -243,8 +241,9 @@
  - **eHow**
  - **Einthusan**
  - **eitb.tv**
- - **EllenTV**
- - **EllenTV:clips**
+ - **EllenTube**
+ - **EllenTubePlaylist**
+ - **EllenTubeVideo**
  - **ElPais**: El País
  - **Embedly**
  - **EMPFlix**
@@ -267,10 +266,8 @@
  - **fc2**
  - **fc2:embed**
  - **Fczenit**
- - **fernsehkritik.tv**
  - **filmon**
  - **filmon:channel**
- - **Firstpost**
  - **FiveTV**
  - **Flickr**
  - **Flipagram**
@@ -284,7 +281,7 @@
  - **foxnews:article**
  - **foxnews:insider**
  - **FoxSports**
- - **france2.fr:generation-quoi**
+ - **france2.fr:generation-what**
  - **FranceCulture**
  - **FranceInter**
  - **FranceTV**
@@ -294,6 +291,7 @@
  - **freespeech.org**
  - **FreshLive**
  - **Funimation**
+ - **Funk**
  - **FunnyOrDie**
  - **Fusion**
  - **Fux**
@@ -301,7 +299,6 @@
  - **GameInformer**
  - **GameOne**
  - **gameone:playlist**
- - **Gamersyde**
  - **GameSpot**
  - **GameStar**
  - **Gaskrank**
@@ -340,6 +337,7 @@
  - **HornBunny**
  - **HotNewHipHop**
  - **HotStar**
+ - **hotstar:playlist**
  - **Howcast**
  - **HowStuffWorks**
  - **HRTi**
@@ -378,6 +376,7 @@
  - **Jove**
  - **jpopsuki.tv**
  - **JWPlatform**
+ - **Kakao**
  - **Kaltura**
  - **Kamcord**
  - **KanalPlay**: Kanal 5/9/11 Play
@@ -439,6 +438,7 @@
  - **mangomolo:live**
  - **mangomolo:video**
  - **ManyVids**
+ - **massengeschmack.tv**
  - **MatchTV**
  - **MDR**: MDR.DE and KiKA
  - **media.ccc.de**
@@ -495,7 +495,6 @@
  - **MySpace:album**
  - **MySpass**
  - **Myvi**
- - **myvideo** (Currently broken)
  - **MyVidster**
  - **n-tv.de**
  - **natgeo**
@@ -538,6 +537,7 @@
  - **nhl.com:videocenter:category**: NHL videocenter category
  - **nick.com**
  - **nick.de**
+ - **nickelodeon:br**
  - **nickelodeonru**
  - **nicknight**
  - **niconico**: ニコニコ動画
@@ -556,8 +556,6 @@
  - **nowness**
  - **nowness:playlist**
  - **nowness:series**
- - **NowTV** (Currently broken)
- - **NowTVList**
  - **nowvideo**: NowVideo
  - **Noz**
  - **npo**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
@@ -607,6 +605,7 @@
  - **pcmag**
  - **PearVideo**
  - **People**
+ - **PerformGroup**
  - **periscope**: Periscope
  - **periscope:user**: Periscope user videos
  - **PhilharmonieDeParis**: Philharmonie de Paris
@@ -627,6 +626,7 @@
  - **Pokemon**
  - **PolskieRadio**
  - **PolskieRadioCategory**
+ - **PopcornTV**
  - **PornCom**
  - **PornerBros**
  - **PornFlip**
@@ -660,6 +660,7 @@
  - **Rai**
  - **RaiPlay**
  - **RaiPlayLive**
+ - **RaiPlayPlaylist**
  - **RBMARadio**
  - **RDS**: RDS.ca
  - **RedBullTV**
@@ -724,6 +725,7 @@
  - **SenateISVP**
  - **SendtoNews**
  - **ServingSys**
+ - **Servus**
  - **Sexu**
  - **Shahid**
  - **Shared**: shared.sx
@@ -734,6 +736,7 @@
  - **skynewsarabia:video**
  - **SkySports**
  - **Slideshare**
+ - **SlidesLive**
  - **Slutload**
  - **smotri**: Smotri.com
  - **smotri:broadcast**: Smotri.com broadcasts
@@ -777,6 +780,7 @@
  - **streamcloud.eu**
  - **StreamCZ**
  - **StreetVoice**
+ - **StretchInternet**
  - **SunPorno**
  - **SVT**
  - **SVTPlay**: SVT Play and Öppet arkiv
@@ -788,7 +792,7 @@
  - **tagesschau:player**
  - **Tass**
  - **TastyTrade**
- - **TBS** (Currently broken)
+ - **TBS**
  - **TDSLifeway**
  - **teachertube**: teachertube.com videos
  - **teachertube:user:collection**: teachertube.com user and collection videos
@@ -859,6 +863,8 @@
  - **tvland.com**
  - **TVN24**
  - **TVNoe**
+ - **TVNow**
+ - **TVNowList**
  - **tvp**: Telewizja Polska
  - **tvp:embed**: Telewizja Polska
  - **tvp:series**
@@ -882,6 +888,7 @@
  - **UDNEmbed**: 聯合影音
  - **UKTVPlay**
  - **Unistra**
+ - **Unity**
  - **uol.com.br**
  - **uplynk**
  - **uplynk:preplay**
@@ -965,10 +972,12 @@
  - **VoiceRepublic**
  - **Voot**
  - **VoxMedia**
+ - **VoxMediaVolume**
  - **Vporn**
  - **vpro**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
  - **Vrak**
  - **VRT**: deredactie.be, sporza.be, cobra.be and cobra.canvas.be
+ - **VrtNU**: VrtNU.be
  - **vrv**
  - **vrv:series**
  - **VShare**
@@ -1027,6 +1036,9 @@
  - **YouJizz**
  - **youku**: 优酷
  - **youku:show**
+ - **YouNowChannel**
+ - **YouNowLive**
+ - **YouNowMoment**
  - **YouPorn**
  - **YourUpload**
  - **youtube**: YouTube.com
@@ -1040,7 +1052,6 @@
  - **youtube:search**: YouTube.com searches
  - **youtube:search:date**: YouTube.com searches, newest videos first
  - **youtube:search_url**: YouTube.com search URLs
- - **youtube:shared**
  - **youtube:show**: YouTube.com (multi-season) shows
  - **youtube:subscriptions**: YouTube.com subscriptions feed, "ytsubs" keyword (requires authentication)
  - **youtube:user**: YouTube.com user videos (URL or "ytuser" keyword)
